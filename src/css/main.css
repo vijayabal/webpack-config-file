@@ -1,0 +1,31 @@
+body{
+	border:0 solid black;
+	margin:10px;
+	background-color:#e2ece2;
+}
+#app{
+	margin: 10px;
+    text-align: center;
+    color: black;
+    font-size: 36px;
+}
+#sec-button{
+	padding:15px;
+	margin:0 auto;
+	text-align:center;
+	border-radius:5px;
+}
+#sec-text{
+	text-align:center;
+	border:1px solid grey;
+	margin:30px;
+	padding:10px;
+}
+.btn-class{
+	margin:0 auto;
+	text-align:center;
+	padding:10px;
+}	
+
+	
+	
